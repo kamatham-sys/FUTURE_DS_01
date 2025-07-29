@@ -51,6 +51,10 @@ This project is part of my Data Science & Analytics internship with [Future Inte
 
 ---
 
+## Dataset : 🧾 E-commerce Data – Orders & Customers (Kaggle)
+
+
+
 ## 🖼 Screenshots
 
 
