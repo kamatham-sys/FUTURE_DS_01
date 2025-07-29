@@ -51,7 +51,9 @@ This project is part of my Data Science & Analytics internship with [Future Inte
 
 ---
 
-## Dataset : 🧾 E-commerce Data – Orders & Customers (Kaggle)
+## Dataset 
+
+🧾 E-commerce Data – Orders & Customers (Kaggle)
 
 
 
@@ -77,7 +79,6 @@ This project is part of my Data Science & Analytics internship with [Future Inte
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
 
 ## 🙌 Acknowledgement
